@@ -1,4 +1,9 @@
 /*
+Reference : 
+https://vonheikemen.github.io/devlog/web-development/learn-fp/dealing-with-side-effects-and-pure-functions/
+*/
+
+/*
 Pipe is used for composing function
 */
 function pipe(...fns) {
